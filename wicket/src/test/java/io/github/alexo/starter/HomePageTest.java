@@ -1,4 +1,4 @@
-package com.giffing.examples.wicket.spring.boot.simple;
+package io.github.alexo.starter;
 
 import org.apache.wicket.protocol.http.WebApplication;
 import org.apache.wicket.util.tester.FormTester;
